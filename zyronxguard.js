@@ -43,7 +43,7 @@ fs.readdir("./commands/", (err, files) => {
 });
 
 client.on('ready', () => {
-  client.channels.cache.get("1149406303022759988").join();
+  client.channels.cache.get('1149406303022759988').join();
 })
 
 client.on('ready', async () => {
