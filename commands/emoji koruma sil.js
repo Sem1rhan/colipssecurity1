@@ -17,7 +17,7 @@ const emb = new Discord.MessageEmbed()
 .setFooter(client.user.username,client.user.avatarURL())
 .setTimestamp()
 .setTitle(`***__Kanal Koruma Sistemi__***`)
-.setDescription(`<a:unlem:758930479105441795> ***Silinen Emoji Koruma Sistem Bilgilendirmesi***\n *Silinen emojileri yeniden oluşturur ve silenin tüm rollerini alır.*\n`)
+.setDescription(`<a:kilit:1178729393246437457> ***Silinen Emoji Koruma Sistem Bilgilendirmesi***\n *Silinen emojileri yeniden oluşturur ve silenin tüm rollerini alır.*\n`)
 .addField(` **Nasıl Açacağım?**`,"`.silinen-emoji-koruma aç`\n")
 .addField(` **Nasıl Kapatacağım?**`,"`.silinen-emoji-koruma kapat`")
 
