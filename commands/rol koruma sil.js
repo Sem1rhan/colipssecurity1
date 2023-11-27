@@ -17,7 +17,7 @@ const emb = new Discord.MessageEmbed()
 .setFooter(client.user.username,client.user.avatarURL())
 .setTimestamp()
 .setTitle(`***__Rol Koruma Sistemi__***`)
-.setDescription(`<a:unlem:758930479105441795> ***Silinen Rol Koruma Sistem Bilgilendirmesi***\n *Silinen rolleri yeniden oluşturur ve silenin tüm rollerini alır.*\n`)
+.setDescription(`<a:kilit:1178729393246437457> ***Silinen Rol Koruma Sistem Bilgilendirmesi***\n *Silinen rolleri yeniden oluşturur ve silenin tüm rollerini alır.*\n`)
 .addField(` **Nasıl Açacağım?**`,"`.silinen-rol-koruma aç`\n")
 .addField(` **Nasıl Kapatacağım?**`,"`.silinen-rol-koruma kapat`")
 
