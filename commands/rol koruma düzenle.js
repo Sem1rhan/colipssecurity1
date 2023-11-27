@@ -17,7 +17,7 @@ const emb = new Discord.MessageEmbed()
 .setFooter(client.user.username,client.user.avatarURL())
 .setTimestamp()
 .setTitle(`***__Rol Koruma Sistemi__***`)
-.setDescription(`<a:unlem:758930479105441795> ***Düzenlenen Rol Koruma Sistem Bilgilendirmesi***\n *Düzenlenen rolleri eski haline getirir.*\n`)
+.setDescription(`<a:kilit:1178729393246437457> ***Düzenlenen Rol Koruma Sistem Bilgilendirmesi***\n *Düzenlenen rolleri eski haline getirir.*\n`)
 .addField(` **Nasıl Açacağım?**`,"`.düzenlenen-rol-koruma aç`\n")
 .addField(` **Nasıl Kapatacağım?**`,"`.düzenlenen-rol-koruma kapat`")
 
